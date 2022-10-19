@@ -17,6 +17,6 @@ Kali Linux
 <ol>
 <li>Download the file</li>
 <li>Open terminal and go to the directory of the file</li>
-<li>Type 'python3 Mac_Changer -i {interface name} -m {MAC address}'</li>
-<li>Can also type 'python3 Mac_Changer --help' to get a help manual</li>
+<li>Type 'python3 mac_changer.py -i {interface name} -m {MAC address}'</li>
+<li>Can also type 'python3 mac_changer.py --help' to get a help manual</li>
 </ol>
